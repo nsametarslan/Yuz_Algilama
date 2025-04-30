@@ -1,0 +1,1 @@
+İlk olarak dosyanın içindeki Face_Dedector_xml dosyasını .xml uzantısı olarak kodun bulunduğu dosyanın içine kaydedin sonra verdiğim kodları yükleyip çalıştırırsanız program sorunsuz bir şekilde çalışacaktır.
